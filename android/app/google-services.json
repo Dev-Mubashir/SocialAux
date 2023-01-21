@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "673659658253",
+    "project_id": "socialaux-app",
+    "storage_bucket": "socialaux-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:673659658253:android:eb2cdb85dc7c7d7852b544",
+        "android_client_info": {
+          "package_name": "com.example.socialaux"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "673659658253-pmn30v2nms6p9ik4rs0aec3n2kcrbu3n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFVPdp7gtoeHDwApEncKXuINGmP6YNFiw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "673659658253-pmn30v2nms6p9ik4rs0aec3n2kcrbu3n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:673659658253:android:91ecf4843acf8d9f52b544",
+        "android_client_info": {
+          "package_name": "com.outaux.socialaux"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "673659658253-pmn30v2nms6p9ik4rs0aec3n2kcrbu3n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFVPdp7gtoeHDwApEncKXuINGmP6YNFiw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "673659658253-pmn30v2nms6p9ik4rs0aec3n2kcrbu3n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
